@@ -1,0 +1,13 @@
+site_name: SmartDelivery Documentation
+theme:
+  name: material
+
+nav:
+  - Главная: index.md
+  - Быстрый старт: quickstart.md
+  - Архитектура: architecture.md
+  - API: api.md
+  - Тестирование: testing.md
+
+markdown_extensions:
+  - pymdownx.superfences
